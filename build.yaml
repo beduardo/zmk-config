@@ -1,4 +1,5 @@
 # Glove80 firmware build configuration
 ---
 include:
-  - board: glove80
+  - board: glove80_lh
+  - board: glove80_rh
